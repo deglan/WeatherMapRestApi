@@ -1,0 +1,12 @@
+baseUri: https://api.openweathermap.org
+apiKey: 083bc49f3290e6340bcec5b79d3f1193
+locations:
+  - city: London
+    country: ",uk"
+    id: "2643743"
+  - city: Oxford
+    country: ",uk"
+    id: "2640729"
+  - city: Gdańsk
+    country: ",pl"
+    id: "3099434"
